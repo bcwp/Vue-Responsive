@@ -3,6 +3,11 @@ permalink: "/Documentation/"
 ---
 [test](docu.md)
 
-#1
+**bold**
+
+*kursiv *
+# 1
 
 index form
+
+![](../images/octocat-logo.png)
